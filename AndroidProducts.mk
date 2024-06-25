@@ -17,6 +17,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_a52q.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_a52q-userdebug \
-    lineage_a52q-user \
-    lineage_a52q-eng
+    lineage_a52q-ap1a-userdebug \
+    lineage_a52q-ap1a-user \
+    lineage_a52q-ap1a-eng
